@@ -1,0 +1,99 @@
+.main-header{
+    background-image: url(../img/banner-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 555px;
+    border: none;
+    position: relative;
+}
+nav{
+    background-color:#8a90ffe6;
+}
+.side-nav{
+    background-color: #000;
+    background: rgba(0, 0, 0, 0.6);
+}
+.show-case .col{
+    padding-top: 100px;
+    background: #8a90ffe6,0.4;
+}
+.section-features{
+    padding-top: 100px;
+}
+.section-features img{
+    margin-top: 45px;
+}
+.section-about{
+    padding-top: 100px;
+}
+.section-unique-features{
+    background-image: url(../img/feature-bg.jpg);
+    background-position: center;
+    background-size: contain;
+    position: relative;
+    min-height: 750px;
+}
+.section-unique-features .heading{
+    padding-top: 120px;
+}
+.section-unique-features .card{
+    border-radius: 10px;
+}
+.section-unique-features .card:hover{
+    color: #8a90ffe6;
+}
+.section-unique-features p{
+    padding-top:10px !important;
+    padding-bottom:10px !important; 
+}
+.section-brand{
+    height: 200px;
+}
+.section-brand .col{
+    padding-top: 50px;
+}
+.section-blog-news p{
+    padding-bottom: 30px;
+}
+.page-footer{
+    background-image: url(../img/footer-bg.jpg);
+    background-position: left;
+    background-size: cover;
+    min-height: 600px;
+}
+.page-footer .col{
+    padding-top: 100px;
+}
+.page-footer ul li a{
+    color: #fff;
+}
+.page-footer ul li a:hover{
+    color: #8a90ffe6;
+}
+.page-footer .icon{
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    margin-left: 5px;
+    display: inline-block;
+}
+.page-footer .icon:hover{
+    background-color: #8a90ffe6;
+}
+.page-footer .m{
+    margin-left: 9px;
+    margin-top: 9px;
+}
+.about-section-video{
+    padding-top: 100px;
+}
+.show-case-heading{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+.section-contact{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
